@@ -3,7 +3,7 @@
 ![Logo Final 2](/uploads/logo-final-2.jpg "Logo Final 2")
 
 # Brasil Risk
-## Caminho
+## Caminhos/Telas
 Gerador EDi >> Integração >> Brasil Risk >> Painel Monitoramento Brasil Risk
 Gerador EDi >> Integração >> Brasil Risk >> Configuração Produto
 Gerador EDi >> Integração >> Brasil Risk >> Empresa x Centro Custo
