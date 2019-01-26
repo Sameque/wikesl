@@ -4,6 +4,7 @@
 
 # Brasil Risk
 ## Caminhos/Telas
+![Menu](/uploads/menu.jpg "Menu")
 
 ### Gerador EDi >> Integração >> Brasil Risk >> Painel Monitoramento Brasil Risk
 
