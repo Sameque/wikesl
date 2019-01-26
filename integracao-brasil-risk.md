@@ -7,8 +7,10 @@
 ![Menu](/uploads/menu.jpg "Menu")
 
 ### Gerador EDi >> Integração >> Brasil Risk >> Painel Monitoramento Brasil Risk
+![Painelmonitoramento](/uploads/painelmonitoramento.jpg "Painelmonitoramento")
 
 ### Gerador EDi >> Integração >> Brasil Risk >> Configuração Produto
+
 ### Gerador EDi >> Integração >> Brasil Risk >> Empresa x Centro Custo
 ### Gerador EDi >> Integração >> Brasil Risk >> Empresa x Centro Custo
 ### Gerador EDi >> Integração >> Brasil Risk >> De > Para Veiculo 
